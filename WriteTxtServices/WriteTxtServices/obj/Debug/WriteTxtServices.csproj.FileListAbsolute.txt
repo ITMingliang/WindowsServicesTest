@@ -1,0 +1,10 @@
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.exe.config
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.exe
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.pdb
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.csproj.SuggestedBindingRedirects.cache
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.csproj.CoreCompileInputs.cache
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.exe
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.pdb
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.ProjectInstaller.resources
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.csproj.GenerateResource.cache
+F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\obj\Debug\WriteTxtServices.csproj.AssemblyReference.cache
