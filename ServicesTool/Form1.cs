@@ -19,8 +19,8 @@ namespace ServicesTool
         /*
          * 
          * cmd命令（管理员运行）
-         * 
-         *  InstallUtil F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.exe    ----------安装服务
+         * cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+         * InstallUtil F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.exe    ----------安装服务
          * InstallUtil -u F:\Learning\WindowsServicesTest\WriteTxtServices\WriteTxtServices\bin\Debug\WriteTxtServices.exe  ----------卸载服务
          * net start WriteTxtServices --------开启服务
          * net stop WriteTxtServices  ---------停止服务
